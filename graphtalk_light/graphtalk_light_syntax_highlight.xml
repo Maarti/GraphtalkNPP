@@ -1,3 +1,4 @@
+<!--Downloaded from https://github.com/Maarti/GraphtalkNPP -->
 <NotepadPlus>
     <UserLang name="Graphtalk light" ext="gtd" udlVersion="2.1">
         <Settings>
@@ -13,7 +14,7 @@
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">- &amp; ( ) * , . /  ; ? [ : \ ] ^ | + &lt; = &gt; or</Keywords>
+            <Keywords name="Operators1">- &amp; ( ) * , . /  ; ? [ : \ ] ^ | + &lt; = &gt; </Keywords>
             <Keywords name="Operators2"></Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
