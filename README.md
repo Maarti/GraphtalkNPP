@@ -3,8 +3,10 @@ Syntax highlighting for Graphtalk code in Notepad++
 
 # Overview
 ## Light theme
+![Light theme overview](graphtalk_light/overview.png)
 
 ## Dark theme
+![Dark theme overview](graphtalk_dark/overview.png)
 
 # Installation
 ## Import theme
